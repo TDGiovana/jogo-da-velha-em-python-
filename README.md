@@ -42,5 +42,5 @@ O código é eficiente e fácil de seguir. A complexidade está nas funções **
 Para executar o jogo:
 
 1.  Baixe o arquivo .rar
-2.  Extraia os arquivs e exeute o jogo da velha :)
+2.  Extraia os arquivos e exeute o jogo da velha :)
 
