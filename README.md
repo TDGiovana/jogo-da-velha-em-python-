@@ -43,4 +43,4 @@ Para executar o jogo:
 
 1.  Baixe o arquivo .rar
 2.  Extraia os arquivs e exeute o jogo da velha :)
-3.  
+
