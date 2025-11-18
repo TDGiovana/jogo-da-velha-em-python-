@@ -41,8 +41,6 @@ O código é eficiente e fácil de seguir. A complexidade está nas funções **
 
 Para executar o jogo:
 
-1.  Clone este repositório.
-2.  Execute o script Python diretamente no seu terminal:
-    ```bash
-    python jogoDaVelha.py
-    ```
+1.  Baixe o arquivo .rar
+2.  Extraia os arquivs e exeute o jogo da velha :)
+3.  
