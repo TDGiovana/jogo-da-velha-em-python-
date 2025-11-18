@@ -3,7 +3,7 @@
 
 ## 🎮 Jogo da Velha (Tic-Tac-Toe) Múltiplo
 
-Bem-vindo ao **Jogo da Velha Avançado**, um projeto desenvolvido em Python para a disciplina de **Técnicas de Desenvolvimento de Algoritmo**. Este jogo CLI (Interface de Linha de Comando) combina a simplicidade do clássico Tic-Tac-Toe com uma lógica robusta e modularizada.
+Bem-vindo ao **Jogo da Velha Avançado**, um projeto desenvolvido em Python pelas alunas Ana Cláudia e Giovana para a disciplina de **Técnicas de Desenvolvimento de Algoritmo**. Este jogo CLI (Interface de Linha de Comando) combina a simplicidade do clássico Tic-Tac-Toe com uma lógica robusta e modularizada.
 
 
 ## ✨ Recursos Principais
